@@ -90,7 +90,7 @@ Reference these guidelines when:
 - `rules/integration-smoke-cli` - CLI command smoke tests
 - `rules/integration-performance` - Performance-aware test setup
 - `rules/integration-singleton` - Singletons for stateless services
-- `rules/integration-transactions` - Database transactions for test cleanup
+- `rules/integration-transactions - Database transactions for test cleanup
 
 ### 8. Configuration (LOW-MEDIUM)
 
@@ -99,7 +99,7 @@ Reference these guidelines when:
 - `rules/config-source-coverage` - Source directory for coverage analysis
 - `rules/config-order-by` - Test execution ordering strategies
 - `rules/config-cache` - Cache directory for performance
-- `rules/config-stop-on-failure` - Stop on first failure for fast feedback
+- rules/config-stop-on-failure - Stop on first failure for fast feedback
 
 ## How to Use
 
